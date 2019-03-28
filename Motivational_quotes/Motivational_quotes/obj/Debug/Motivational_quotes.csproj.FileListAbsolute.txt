@@ -1,0 +1,11 @@
+C:\Users\dinui\source\repos\Motivational_quotes\Motivational_quotes\bin\Debug\Motivational_quotes.exe.config
+C:\Users\dinui\source\repos\Motivational_quotes\Motivational_quotes\bin\Debug\Motivational_quotes.exe
+C:\Users\dinui\source\repos\Motivational_quotes\Motivational_quotes\bin\Debug\Motivational_quotes.pdb
+C:\Users\dinui\source\repos\Motivational_quotes\Motivational_quotes\obj\Debug\Motivational_quotes.csprojAssemblyReference.cache
+C:\Users\dinui\source\repos\Motivational_quotes\Motivational_quotes\obj\Debug\Motivational_quotes.Form1.resources
+C:\Users\dinui\source\repos\Motivational_quotes\Motivational_quotes\obj\Debug\Motivational_quotes.Properties.Resources.resources
+C:\Users\dinui\source\repos\Motivational_quotes\Motivational_quotes\obj\Debug\Motivational_quotes.csproj.GenerateResource.cache
+C:\Users\dinui\source\repos\Motivational_quotes\Motivational_quotes\obj\Debug\Motivational_quotes.csproj.CoreCompileInputs.cache
+C:\Users\dinui\source\repos\Motivational_quotes\Motivational_quotes\obj\Debug\Motivational_quotes.exe
+C:\Users\dinui\source\repos\Motivational_quotes\Motivational_quotes\obj\Debug\Motivational_quotes.pdb
+C:\Users\dinui\source\repos\Motivational_quotes\Motivational_quotes\obj\Debug\Motivational_quotes.Form2.resources
